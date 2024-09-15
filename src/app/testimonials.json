@@ -1,0 +1,32 @@
+[
+	{
+		"clientName": "Anele Nqabeni",
+		"clientField": "Software Engineer",
+		"comment": "Lucky to be his first customer , and I must say do not sleep on his work ethic. I give him one word for his work ?? QUALITY🔥⭐️⭐️",
+		"imageUrl": "https://example.com/images/alex.jpg"
+	},
+	{
+		"clientName": "Sara Lee",
+		"clientField": "Digital Marketing Specialist",
+		"comment": "Their expertise in social media ads helped us achieve outstanding ROI with TikTok and Facebook campaigns!",
+		"imageUrl": "https://example.com/images/sara.jpg"
+	},
+	{
+		"clientName": "Mark Roberts",
+		"clientField": "Blockchain Developer",
+		"comment": "The blockchain integration by Farvelo was seamless and secure. They delivered exactly what we needed.",
+		"imageUrl": "https://example.com/images/mark.jpg"
+	},
+	{
+		"clientName": "Emily Turner",
+		"clientField": "Mobile App Developer",
+		"comment": "Our React Native app has been a huge success thanks to their top-notch development services!",
+		"imageUrl": "https://example.com/images/emily.jpg"
+	},
+	{
+		"clientName": "Michael Carter",
+		"clientField": "Startup Founder",
+		"comment": "Farvelo’s web development services helped us build a strong online presence quickly and effectively.",
+		"imageUrl": "https://example.com/images/michael.jpg"
+	}
+]
